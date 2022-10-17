@@ -87,4 +87,10 @@ ol li {
     .title {
         width: 60%;
     }
+    .flex {
+        display: block;
+    }
+    .client-name {
+        font-size: 18px;
+    }
 }
